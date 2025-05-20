@@ -14,7 +14,7 @@ The student implementing it, is Abraham Makur.</p>
      <...the end of heading...>
     <...the about section...>
     <h3>About Currency dataset</h3>
-      <p>This website is mainly brought to light to eases the desires for looking for he data.
+      <p>This website is mainly brought to light to eases the desires for looking for the data.
       The main reaons are to be used during the learning session of artifical intelligence, that is to devise projects(s) under computer vision.
       The projects are Currency ID(which would help in detecting the value, the validity, and the transaction in cahanging it to the other currency.)
       </p>
