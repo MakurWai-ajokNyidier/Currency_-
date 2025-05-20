@@ -33,7 +33,6 @@
             </nav>
          </div>
 
-  <div class="banner_section layout_padding">
             <div class="container">
                <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
                   <ol class="carousel-indicators">
@@ -46,48 +45,48 @@
                      <div class="carousel-item active">
                         <div class="row">
                            <div class="col-sm-6">
-                              <h1 class="banner_taital">Currency set</h1>
+                              <h1 class="banner_taital">Currency dataset</h1>
                               <p class="banner_text">It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.</p>
                               <div class="started_text"><a href="#">Get the data here</a></div>
                            </div>
                            <div class="col-sm-6">
-                              <div class="banner_img"><img src="img/images/currencies.png"></div>
+                              <div class="banner_img"><img src=""></div>
                            </div>
                         </div>
                      </div>
                      <div class="carousel-item">
                         <div class="row">
                            <div class="col-sm-6">
-                              <h1 class="banner_taital">Currency set</h1>
+                              <h1 class="banner_taital">Currency dataset</h1>
                               <p class="banner_text">It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.</p>
                               <div class="started_text"><a href="#">Get the data here</a></div>
                            </div>
                            <div class="col-sm-6">
-                              <div class="banner_img"><img src="img/images/currencies.png"></div>
+                              <div class="banner_img"><img src=""></div>
                            </div>
                         </div>
                      </div>
                      <div class="carousel-item">
                         <div class="row">
                            <div class="col-sm-6">
-                              <h1 class="banner_taital">Currency set</h1>
+                              <h1 class="banner_taital"> Currency dataset</h1>
                               <p class="banner_text">It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.</p>
                               <div class="started_text"><a href="#">Get the data here</a></div>
                            </div>
                            <div class="col-sm-6">
-                              <div class="banner_img"><img src="img/images/currencies.png"></div>
+                              <div class="banner_img"><img src=""></div>
                            </div>
                         </div>
                      </div>
                      <div class="carousel-item">
                         <div class="row">
                            <div class="col-sm-6">
-                              <h1 class="banner_taital">Currency set</h1>
+                              <h1 class="banner_taital">Currency dataset</h1>
                               <p class="banner_text">It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.</p>
                               <div class="started_text"><a href="#">Get the data here</a></div>
                            </div>
                            <div class="col-sm-6">
-                              <div class="banner_img"><img src="img/images/currencies.png"></div>
+                              <div class="banner_img"><img src=""></div>
                            </div>
                         </div>
                      </div>
@@ -95,15 +94,6 @@
                </div>
             </div>
          </div>
-   <h3>Currency dataset</h3>
-    
-   <p>This is currency dataset collected by University of Juba's students in 2025 for testing the algorithms of computer vision as they would be doing projects that would help to solve some challenges which are being faced by various communities. 
-The student implementing it, is Abraham Makur.</p>
-   <div class action ="row">
-     
-   </div>
-     <...the end of heading...>
-    <...the about section...>
     <h3>About Currency dataset</h3>
       <p>This website is mainly brought to light to eases the desires for looking for the data.
       The main reaons are to be used during the learning session of artifical intelligence, that is to devise projects(s) under computer vision.
